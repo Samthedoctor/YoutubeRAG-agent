@@ -27,7 +27,7 @@ An intelligent chat interface that allows you to ask questions about programming
 ## 🛠️ Installation & Setup
 
 ### Prerequisites
-- Python 3.8 or higher
+- Python 3.11 or higher
 - Google AI API key (free from Google AI Studio)
 
 ### Step 1: Clone & Install Dependencies
