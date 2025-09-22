@@ -1,0 +1,11 @@
+streamlit 
+langchain 
+yt-dlp 
+youtube-transcript-api 
+pandas 
+chromadb 
+sentence-transformers 
+langchain-google-genai 
+torch
+langchain-community
+langchain-core
