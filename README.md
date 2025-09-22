@@ -2,7 +2,7 @@
 
 An intelligent chat interface that allows you to ask questions about programming concepts, tools, and technologies covered in Fireship's "100 Seconds of Code" YouTube videos. Get instant answers with direct links to specific video moments!
 
-**[▶️ Watch the Demo Video]([https://drive.google.com/file/d/1mNGUhda4ULq9IS06RjKabm0JfCDIjOqx/view?usp=sharing])**
+**[▶️ Watch the Demo Video](https://drive.google.com/file/d/1mNGUhda4ULq9IS06RjKabm0JfCDIjOqx/view?usp=sharing)**
 
 ## ✨ Features
 
